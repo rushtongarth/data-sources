@@ -7,12 +7,17 @@ Some data sources I've found from around the internet
   <dt>Civics</dt>
     <dd><a href="http://www.census.gov/data.html">Census Data</a></dd>
     <dd><a href="http://usafacts.org/">USA financials</a></dd>
-    <dt><a href="https://fas.org/sgp/crs/misc/R41545.pdf">Congress | Tenure Patterns</a></dt>
+    <dd><a href="https://fas.org/sgp/crs/misc/R41545.pdf">Congressional Tenure Patterns</a></dd>
   <dt>Language</dt>
     <dd><a href="http://corpus.byu.edu/coca/">English Corpus</a></dd>
   <dt>Health Related</dt>
     <dd><a href="https://openpaymentsdata.cms.gov/search">Open Payments</a></dd>
     <dd><a href="http://fcon_1000.projects.nitrc.org/indi/abide/">ABIDE Brain Data</a></dd>
+  <dt>ICD 10</dt>
+    <dd><a href="https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2019-ICD-10-CM-Tables-and-Index.zip">
+        Full List of ICD-10-CM from CMS</a></dd>
+  <dt>ICD 9</dt>
+    <dd><a href="https://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/Downloads/ICD-9-CM-v32-master-descriptions.zip">Full List of ICD-9-CM from CMS</a></dd>
   <dt>L-Functions</dt>
     <dd><a href="http://www.lmfdb.org/api">LMFDB</a></dd>
   <dt>Mapping</dt>
