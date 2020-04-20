@@ -1,0 +1,3 @@
+[submodule "genomics"]
+	path = genomics
+	url = https://github.com/rushtongarth/genomics
